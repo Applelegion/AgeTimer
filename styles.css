@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+.center{
+    line-height: 4000%;
+    display: inline-block;
+    text-align: center;
+    
+
+}
+#changing{
+    display: inline-block;
+    text-align: center;
+    line-height: 2000%;
+    font-size: 2.5em;
+}
+
+#gobutton{
+    background-color:green;
+    border-radius: 25%;
+    font-size: 16px;
+    padding: 20px;
+}

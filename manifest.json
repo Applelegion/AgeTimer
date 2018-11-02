@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Age Timer",
+    "version": "1.0",
+    "description": "Keeps track of your age",
+    "chrome_url_overrides" : {
+        "newtab" : "newtab.html"
+    },
+    "permissions": [
+        "storage"
+      ]
+
+}
