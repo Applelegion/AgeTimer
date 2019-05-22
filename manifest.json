@@ -6,8 +6,13 @@
     "chrome_url_overrides" : {
         "newtab" : "newtab.html"
     },
+    "browser_action":{
+        "default_title":"AgeTimer",
+        "default_popup":"popup.html"
+    },
     "permissions": [
-        "storage"
+        "storage",
+        "tabs"
       ]
 
 }
